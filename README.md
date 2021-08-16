@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amazighlar
+- 👀 I’m interested in Android dev
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on All Things
